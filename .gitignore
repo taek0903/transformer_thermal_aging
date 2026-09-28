@@ -1,0 +1,6 @@
+# 개인 설계 노트
+DESIGN.md
+# 데이터 (출처에서 직접 받을 것 — README 참조)
+data/
+__pycache__/
+*.pyc
